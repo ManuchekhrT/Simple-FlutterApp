@@ -1,7 +1,6 @@
 # Simple Flutter App - for managing your planned goals
-
-A new Flutter application.
-
+In this project I used: Sqflite, Flutter Local Notifications
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
